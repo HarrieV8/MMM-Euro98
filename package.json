@@ -1,0 +1,12 @@
+{
+  "name": "mmm-euro98",
+  "version": "1.0.0",
+  "description": "Cheapest nearby Euro 98 prices from the ANWB station feed used by Pumperly",
+  "main": "MMM-Euro98.js",
+  "license": "MIT",
+  "author": "HarrieV8",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HarrieV8/MMM-Euro98"
+  }
+}

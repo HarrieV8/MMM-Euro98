@@ -1,0 +1,23 @@
+.euro98 {
+	max-width: 320px;
+	margin-left: auto;
+	text-align: right;
+}
+
+.euro98-row {
+	display: flex;
+	justify-content: flex-end;
+	gap: 12px;
+	align-items: baseline;
+	margin-bottom: 8px;
+}
+
+.euro98-price {
+	font-size: 24px;
+	line-height: 28px;
+	min-width: 4.2em;
+}
+
+.euro98-station {
+	line-height: 1.2;
+}
